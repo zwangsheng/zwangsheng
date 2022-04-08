@@ -10,3 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prestodb&repo=presto&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-kyuubi&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zwangsheng/count.svg" />
+</p>
