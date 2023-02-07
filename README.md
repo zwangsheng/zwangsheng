@@ -1,6 +1,6 @@
 # zWangSheng
 
-I am a newcomer to the field of big data and currently focuses on Spark, Kyuubi, Kubernetes, Celeborn.
+I am a newcomer to the field of big data and currently focuses on Spark, Kyuubi, Kubernetes, Celeborn And also newcomer to `Front Design`🥳.
 
 You can contact me:
 
