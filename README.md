@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binjie Yang</h1>
-<h2 align="center">Big Data Frameworks Engineer(with little Frontend Develop)</h2>
+<h2 align="left">Big Data Frameworks Engineer(with little Frontend Develop)</h2>
 
   - 🔭 I’m currently working on
 
@@ -8,11 +8,11 @@
     - [Apache Kyuubi](https://github.com/apache/kyuubi)
 
   - 🌱 I’m currently learning [Apache Spark](https://github.com/apache/spark)
-<h2 align="center">Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 
   - 📫 **binjieyang@apache.org**
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
