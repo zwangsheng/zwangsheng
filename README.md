@@ -7,7 +7,7 @@
 
     - [Apache Kyuubi](https://github.com/apache/kyuubi)
 
-  - 🌱 I’m currently learning [Apache Spark](https://github.com/apache/spark)
+  - 🌱 I’m currently learning [Apache Spark](https://github.com/apache/spark) and [Gluten](https://github.com/oap-project/gluten)
 <h2 align="left">Connect with me:</h2>
 
   - 📫 **binjieyang@apache.org**
